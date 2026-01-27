@@ -106,9 +106,6 @@
   <a href="https://www.linkedin.com/in/muhammed-enes-sivil">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
 </p>
 
 ---
