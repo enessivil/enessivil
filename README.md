@@ -12,12 +12,8 @@
   <img src="https://komarev.com/ghpvc/?username=enessivil&label=Profile%20Views&color=0ea5e9&style=flat" />
 </p>
 
----
-
-
 </p>
 
----
 
 ## 🧠 About Me
 
