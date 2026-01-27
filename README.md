@@ -2,14 +2,20 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 </p>
 
-<h1 align="center">Hi 👋 I'm Enes</h1>
+<h1 align="center">Hi 👋 I'm Muhammed Enes Sivil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Software+Developer;Web+%26+Mobile+Applications;Python+%7C+C%23+%7C+JavaScript;Building+things+that+actually+work" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Software+Developer;Web+%26+Mobile+Applications;Python+%7C+C%23+%7C+JavaScript;Building+things+that+actually+work" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=enessivil&label=Profile%20Views&color=0ea5e9&style=flat" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=enessivil&theme=onedark&no-frame=true&row=1&column=5" />
 </p>
 
 ---
@@ -26,6 +32,23 @@
 
 ---
 
+## ⚙️ What I Do
+
+- Design and build web platforms  
+- Develop mobile applications  
+- Create internal tools & automation systems  
+- Focus on logic, performance, and usability  
+
+---
+
+## 🎯 Currently Focused On
+
+- Improving backend & system design skills  
+- Building real-world, production-ready projects  
+- Strengthening clean code & architecture practices  
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -37,13 +60,13 @@
 ## 📌 Featured Projects
 
 🚀 **Achievia**  
-> Mobile app focused on productivity & personal development  
+> Mobile application focused on productivity & personal development  
 
 🎓 **Education Platforms**  
-> NotroAkademi & Uludağ Akademi – modern education systems  
+> NotroAkademi & Uludağ Akademi – modern web-based education systems  
 
 🧾 **Certificate & Badge Generator**  
-> Internal tool for generating certificates & name badges  
+> Internal web tool for generating certificates & name badges  
 
 🧠 **Python & Backend Projects**  
 > Automation scripts, logic-based tools, APIs  
@@ -100,6 +123,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/enessivil/enessivil/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+## ⚡ Fun Fact
+
+I once wanted to be an astronaut.  
+Now I explore systems, logic, and code instead 🚀
 
 ---
 
